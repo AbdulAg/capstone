@@ -1,3 +1,3 @@
 # capstone
-## Data Science capstone
+## Data Science capstone Project
 
