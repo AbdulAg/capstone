@@ -9,10 +9,10 @@ This project develops a predictive model to determine the successful landing of 
 **Insightful Visualizations:** Uses Matplotlib and Plotly for EDA, revealing key factors influencing landing success.
 
 ## Technologies
-**Programming:** Python, pandas, scikit-learn  
-**Data Collection:** Web scraping, SpaceX API  
-**Visualization:** Matplotlib, Plotly  
-**Environment:** Jupyter Notebook, Google Colab, IBM Watson Studio  
+**Programming:** Python, pandas, scikit-learn, SQL  
+**Data Collection:** Web scraping (Beautiful Soup), SpaceX API  
+**Visualization:** Matplotlib, Plotly, Dash  
+**Environment:** Jupyter Notebook, Google Colab, IBM Watson Studio, SQLite  
 
 ## Results
 Achieved 85% accuracy using SVMs, with detailed model evaluation in the notebook. The project demonstrates proficiency in data wrangling, feature engineering, and machine learning for real-world applications.
